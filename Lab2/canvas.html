@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Canvas</title>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Rowdies&display=swap">
+</head>
+<style>
+    .header{
+        font-family: 'Rowdies', cursive;
+        text-align: center;
+        position: relative;
+        top: 20px;
+    }
+    a{
+        text-decoration: none;
+    }
+    a:visited{
+        color: black;
+    }
+    a:hover{
+            color: rgb(133, 240, 213);
+        }
+    body{
+        text-align: center;
+    }
+    canvas{
+        text-align: center;
+        position: relative;
+        top: 80px;
+    }
+</style>
+<body>
+    <h1><div class="header">
+        <a href="index.html">Home</a> /        
+        <a href="myvideo.html">My video</a> /       
+        <a href="canvas.html">Canvas</a> /      
+        <a href="form.html">Form</a>        
+    </div>
+    </h1>
+    <canvas id="myCanvas" width="600" height="200" style="border:3px solid #afd7f6;"></canvas>
+    <script>
+        var c = document.getElementById("myCanvas");
+        var ctx = c.getContext("2d");
+        ctx.font = "50px Rowdies";
+        //Create gradient
+        var gradient = ctx.createLinearGradient(0, 0,c.width,0)
+        gradient.addColorStop("0", "#FEB9D0");
+        gradient.addColorStop("0.5", "#96CFCF");
+        gradient.addColorStop("1", "#C1B2C6");
+        //Fill Color
+        ctx.strokeStyle = gradient;
+        ctx.strokeText("Nonthawat Deekham",40,70);
+        ctx.strokeText("Boss",240,160);
+    </script>
+</body>
+</html>
