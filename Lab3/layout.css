@@ -1,0 +1,59 @@
+body {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+    grid-template-rows: 115px 56px auto 48px;
+    grid-template-areas:
+        "header header header header header"
+        "nav nav nav nav aside"
+        "body body body body aside"
+        "footer footer footer footer footer";
+
+    background: rgb(221, 221, 221);
+}
+
+body>header {
+    grid-area: header;
+}
+
+#signup {
+    text-align: end;
+}
+
+#menu {
+    grid-area: nav;
+}
+
+#menu ul {
+    display: flex;
+    flex-direction: row;
+    justify-items: stretch;
+
+    width: 100%;
+}
+
+#menu ul li {
+    flex: 1;
+}
+
+#related {
+    grid-row: 1/5;
+    grid-area: aside;
+}
+
+#news,
+#register,
+#login {
+    grid-area: body;
+}
+
+#news footer {
+    text-align: end;
+}
+
+#news footer .author {
+    float: left;
+}
+
+body>footer {
+    grid-area: footer;
+}

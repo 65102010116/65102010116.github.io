@@ -1,0 +1,37 @@
+#comments>h1 {
+    margin: 1em;
+}
+
+.comment {
+    margin: 1em;
+    font-family: "Verdana", serif;
+}
+
+.comment>span {
+    font-weight: bold;
+}
+
+.comment .user::after {
+    content: " said:";
+}
+
+.comment .date {
+    float: right;
+}
+
+.comment p {
+    padding: 1em;
+    background: rgb(241, 241, 241);
+
+    /* text-indent: 5em; */
+    position: relative;
+}
+
+.comment p::before {
+    content: "\201C";
+    font-size: 4em;
+    position: relative;
+    top: 24px;
+    color: lightgray;
+    margin-right: 4px;
+}
