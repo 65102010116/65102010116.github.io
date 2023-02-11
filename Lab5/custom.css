@@ -1,0 +1,20 @@
+.remove-button {
+    margin-top: 1px;
+}
+.task {
+    opacity: 0;
+    -webkit-animation: fadeIn.5s linear forwards;
+    -moz-animation: fadeIn.5s linear forwards;
+    animation: fadeIn.5s linear forwards;
+}
+@keyframes fadeIn {
+    to {
+    opacity: 1;
+    }
+}
+.container{
+    position: fixed;
+    top: 200px;
+    left: 400px;
+    right: 400px;
+}
