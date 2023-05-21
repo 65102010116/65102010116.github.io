@@ -1,0 +1,25 @@
+GeForce RTX™ 4070 Ti GAMING X TRIO 12G
+GeForce RTX™ 4070 Ti GAMING X TRIO 12G
+WITH DLSS 3
+Get equipped for stellar gaming and creating with the NVIDIA® GeForce RTX™ 4070 Ti. It’s built with the ultra-efficient NVIDIA Ada Lovelace architecture. Experience fast ray tracing, AI-accelerated performance with DLSS 3, new ways to create, and much more.
+
+Boost Clock / Memory Speed
+⚫2745 MHz (GAMING & SILENT Mode) / 21 Gbps
+⚫12GB GDDR6X
+⚫DisplayPort x 3 (v1.4a)
+⚫HDMI™ x 1 (Supports 4K@120Hz HDR, 8K@60Hz HDR, and Variable Refresh Rate as specified in HDMI™ 2.1a)
+
+TRI FROZR 3 Thermal Design
+⚫TORX Fan 5.0: Fan blades linked by ring arcs and a fan cowl work together to stabilize and maintain high-pressure airflow.
+⚫Copper Baseplate: The CNC machined nickel-plated copper base captures heat from the GPU and the memory then rapidly transfers it to Core Pipes.
+⚫Core Pipe: A section of square-shape heat pipes make maximum contact over the GPU, then spread the heat to the heatsink.
+⚫Airflow Control: Sections of different heatsink fins disrupt unwanted airflow harmonics and reduce noise.
+
+Dual BIOS
+⚫Dual BIOS gives you the choice to prioritize full performance in GAMING mode or low noise in SILENT mode.
+
+Afterburner
+⚫Take full control with the most recognized and widely used graphics card overclocking software in the world.
+
+MSI Center
+⚫The exclusive MSI Center software lets you monitor, tweak and optimize MSI products in real-time.

@@ -1,0 +1,49 @@
+GeForce® RTX 2060 SUPER™ GAMING OC 8G
+
+Chipset
+GeForce® RTX 2060 SUPER™
+Core Clock
+1815 MHz (Reference Card: 1650 MHz)
+RTX-OPS
+45
+CUDA® Cores
+2176
+Memory Clock
+14000 MHz
+Memory Size
+8 GB
+Memory Type
+GDDR6
+Memory Bus
+256 bit
+Memory Bandwidth (GB/sec)
+448 GB/s
+Card Bus
+PCI-E 3.0 x 16
+Digital max resolution
+7680x4320@60Hz
+Multi-view
+4
+Card size
+L=280.35 W=116.45 H=40.24 mm
+PCB Form
+ATX
+DirectX
+12
+OpenGL
+4.6
+Power requirement
+550W
+Power Connectors
+8 Pin*1, 6 Pin*1
+Output
+DisplayPort 1.4 *3
+HDMI 2.0b *1
+USB Type-C™ (support VirtualLink™ ) *1
+SLI support
+No
+Accessories
+1. Quick guide
+2. Driver CD
+
+price ฿5,590.

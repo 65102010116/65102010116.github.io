@@ -1,0 +1,19 @@
+Radeon™ RX 7900 XT GAMING TRIO CLASSIC 20G
+Experience unprecedented performance, visuals, and efficiency at 4K and beyond with AMD Radeon™ RX 7000 Series graphics cards, the world's first gaming GPUs powered by AMD RDNA™ 3 chiplet technology. Immerse yourself in breathtaking visuals with the pinpoint color accuracy of AMD Radiance Display™ Engine and boost frame rates with AMD FidelityFX™ Super Resolution and Radeon™ Super Resolution upscaling technologies.1,2 To unlock even more performance, combine AMD Radeon™ RX 7000 Series graphics and compatible AMD Ryzen™ processors to activate AMD smart technologies.3
+
+Boost Clock / Memory Speed
+⚫Up to 2400 MHz / 20 Gbps
+⚫20GB GDDR6
+⚫DisplayPort x 3 (up to v2.1)
+HDMI™ x 1 (Supports 4K@120Hz/8K@60Hz and VRR as specified in HDMI™ 2.1)
+
+TRI FROZR 2 Thermal Design
+⚫TORX Fan 4.0: A masterpiece of teamwork, fan blades work in pairs to create unprecedented levels of focused air pressure.
+⚫Core Pipe: Precision-crafted heat pipes ensure max contact to the GPU and spread heat along the full length of the heatsink.
+⚫Airflow Control: Don't sweat it, Airflow Control guides the air to exactly where it needs to be for maximum cooling.
+
+RGB Mystic Light
+⚫Mystic Light gives you complete control of the RGB lighting for MSI devices and compatible RGB products.
+
+MSI Center
+⚫MSI's exclusive MSI Center software lets you monitor, tweak and optimize MSI products in real-time.

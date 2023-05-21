@@ -1,0 +1,46 @@
+GeForce® GTX 1660 Ti OC 6G
+
+Chipset
+GeForce® GTX 1660 Ti
+Core Clock
+1800 MHz (Reference Card: 1770 MHz)
+CUDA® Cores
+1536
+Memory Clock
+12000 MHz
+Memory Size
+6 GB
+Memory Type
+GDDR6
+Memory Bus
+192 bit
+Memory Bandwidth (GB/sec)
+288 GB/s
+Card Bus
+PCI-E 3.0 x 16
+Digital max resolution
+7680x4320
+Multi-view
+4
+Card size
+L=225.65 W=122.02 H=40.5 mm
+PCB Form
+ATX
+DirectX
+12
+OpenGL
+4.6
+Power requirement
+450W
+Power Connectors
+8 Pin*1
+Output
+DisplayPort 1.4 *3
+HDMI 2.0b *1
+SLI support
+No
+Accessories
+1. Quick guide
+2. Driver CD
+
+price ฿6,990

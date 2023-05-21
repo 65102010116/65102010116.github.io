@@ -1,0 +1,50 @@
+GeForce® RTX 2070 SUPER™ GAMING OC 8G
+
+Chipset
+GeForce® RTX 2070 SUPER™
+Core Clock
+1815 MHz (Reference Card: 1770 MHz)
+RTX-OPS
+53
+CUDA® Cores
+2560
+Memory Clock
+14000 MHz
+Memory Size
+8 GB
+Memory Type
+GDDR6
+Memory Bus
+256 bit
+Memory Bandwidth (GB/sec)
+448 GB/s
+Card Bus
+PCI-E 3.0 x 16
+Digital max resolution
+7680x4320@60Hz
+Multi-view
+4
+Card size
+L=286.5 W=114.5 H=50.2 mm
+PCB Form
+ATX
+DirectX
+12
+OpenGL
+4.6
+Power requirement
+650W
+Power Connectors
+8 Pin*1, 6 Pin*1
+Output
+DisplayPort 1.4 *3
+HDMI 2.0b *1
+USB Type-C™(support VirtualLink™) *1
+SLI support
+2-way NVIDIA NVLINK™
+Accessories
+1. Quick guide
+2. Driver CD
+3. 4-year warranty registration
+
+price ฿17,900 

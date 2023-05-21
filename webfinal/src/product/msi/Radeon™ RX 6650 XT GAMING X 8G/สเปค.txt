@@ -1,0 +1,19 @@
+Radeon™ RX 6650 XT GAMING X 8G
+The new AMD Radeon™ RX 6650 XT graphic cards are optimized for DirectStorage to help reduce load times in games and bring expansive worlds to life in amazing detail. The Radeon™ RX 6000 Series graphic cards take full advantage of the latest innovations in upscaling technologies such as AMD FidelityFX™ Super Resolution2 or the new Radeon™ Super Resolution1. Whether it is AAA gaming or eSports, experience all your games without compromise.
+
+Boost Clock / Memory Speed
+●Up to 2694 MHz/ 17.5 Gbps
+●8GB GDDR6
+●DisplayPort x 3 (v1.4)
+HDMI™ x 1 (Supports 4K@120Hz/8K@60Hz and VRR as specified in HDMI™ 2.1)
+
+TWIN FROZR 8 Thermal Design
+●TORX Fan 4.0: A masterpiece of teamwork, fan blades work in pairs to create unprecedented levels of focused air pressure.
+●Core Pipe: Precision-crafted heat pipes ensure max contact to the GPU and spread heat along the full length of the heatsink.
+●Airflow Control: Don't sweat it, Airflow Control guides the air to exactly where it needs to be for maximum cooling.
+
+RGB Mystic Light
+●Mystic Light gives you complete control of the RGB lighting for MSI devices and compatible RGB products.
+
+MSI Center
+●The exclusive MSI Center software lets you monitor, tweak, and optimize MSI products in real-time.

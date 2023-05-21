@@ -1,0 +1,46 @@
+GeForce® GTX 1650 OC 4G
+
+Chipset
+GeForce® GTX 1650
+Core Clock
+1710 MHz (Reference Card: 1665 MHz)
+CUDA® Cores
+896
+Memory Clock
+8002 MHz
+Memory Size
+4 GB
+Memory Type
+GDDR5
+Memory Bus
+128 bit
+Memory Bandwidth (GB/sec)
+128 GB/s
+Card Bus
+PCI-E 3.0 x 16
+Digital max resolution
+7680x4320@60Hz
+Multi-view
+3
+Card size
+L=191 W=112 H=36 mm
+PCB Form
+ATX
+DirectX
+12
+OpenGL
+4.6
+Power requirement
+300W
+Power Connectors
+N/A
+Output
+DisplayPort 1.4 *1
+HDMI 2.0b *2
+SLI support
+No
+Accessories
+1. Quick guide
+2. Driver CD
+
+price ฿7,690

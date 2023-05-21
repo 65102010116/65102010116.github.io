@@ -1,0 +1,19 @@
+GeForce RTX™ 3090 Ti GAMING X TRIO 24G
+The GeForce RTX™ 3090 Ti is colossally powerful in every way, giving you a whole new tier of performance. It’s powered by the NVIDIA Ampere architecture, which doubles down on ray tracing and AI performance with enhanced RT Cores, Tensor Cores, and new streaming multiprocessors.
+
+Boost Clock / Memory Speed
+⚫1920 MHz / 21 Gbps
+⚫24GB GDDR6X
+⚫DisplayPort x 3 (v1.4a)
+HDMI™ x 1 (Supports 4K 120Hz HDR, 8K 60Hz HDR and Variable Refresh Rate as specified in HDMI™ 2.1)
+
+TRI FROZR 2 Thermal Design
+⚫TORX Fan 4.0: A masterpiece of teamwork, fan blades work in pairs to create unprecedented levels of focused air pressure.
+⚫Core Pipe: Precision-crafted heat pipes ensure max contact to the GPU and spread heat along the full length of the heatsink.
+⚫Airflow Control: Don't sweat it, Airflow Control guides the air to exactly where it needs to be for maximum cooling.
+
+RGB Mystic Light
+⚫Mystic Light gives you complete control of the RGB lighting for MSI devices and compatible RGB products.
+
+MSI Center
+⚫The exclusive MSI Center software lets you monitor, tweak and optimize MSI products in real-time.

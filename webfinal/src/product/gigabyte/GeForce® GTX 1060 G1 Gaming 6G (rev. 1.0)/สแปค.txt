@@ -1,0 +1,43 @@
+GeForce® GTX 1060 G1 Gaming 6G (rev. 1.0) rev. 2.0
+
+Chipset
+GeForce® GTX 1060
+Core Clock
+Boost: 1847 MHz / Base: 1620 MHz in OC mode
+Boost: 1809 MHz / Base: 1594 MHz in Gaming mode
+CUDA® Cores
+1280
+Process Technology
+16 nm
+Memory Clock
+8008 MHz
+Memory Size
+6 GB
+Memory Type
+GDDR5
+Memory Bus
+192 bit
+Card Bus
+PCI-E 3.0 x 16
+Digital max resolution
+7680x4320
+Multi-view
+4
+Card size
+H=40 L=278 W=114 mm
+PCB Form
+ATX
+DirectX
+12
+OpenGL
+4.5
+Power requirement
+400W
+Power Connectors
+8 pin*1
+Output
+Dual-link DVI-D *1
+HDMI-2.0b*1 (Max Resolution: 4096x2160 @60 Hz)
+Display Port-1.4 *3 (Max Resolution: 7680x4320 @60 Hz)
+
+price 2,299
